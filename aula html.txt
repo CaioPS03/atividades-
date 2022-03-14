@@ -1,0 +1,20 @@
+# HTML
+- Hyper Text Markup Language
+-- Elementos HTML -> tags
+-- tags <nome>
+-- tags de informação
+    <tag info="eu sou uma tag">
+-- tags de conteúdo
+    <tag>Eu sou o conteúdo </tag>
+
+<pai>
+    <filho01>
+        <neta01></neta02>
+    </filho01>
+    <filho02></filho02>
+    <filho03></filho03>
+    <filho04></filho04>
+</pai>
+
+-- Estrutura de um arquivo HTML
+-- o arquivo deverá ter extensão HTML
