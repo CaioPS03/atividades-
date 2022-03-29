@@ -1,0 +1,17 @@
+www > https > html
+
+
+
+
+
+Http - 
+Get - procurar informação
+Post - enviar nova informação
+Put e Patch - atualizar informação
+Delete - apagar informação
+
+Respostas (código e corpo)
+200, 201, 202 ... = sucesso
+300, 301, 302 ... = movido
+400, 403, 404 ... = erro do usuário
+500, 501, 502 ... = erro do servidor
